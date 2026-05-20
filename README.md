@@ -208,14 +208,11 @@ For an actual game-side smoke test, use a configured `env/.env` and your own mod
 If you find our work useful, please consider citing us!
 
 ```bibtex
-@misc{jiang2026spike,
+@article{jiang2026spike,
   title={SPIKE: An Adaptive Dual Controller Framework for Cost-Efficient Long-Horizon Game Agents},
   author={Wencan Jiang and Jiangning Zhang and Jianbiao Mei and Jinzhuo Liu and Yu Yang and Xiaobin Hu and Zhucun Xue and Yong Liu and Dacheng Tao},
-  year={2026},
-  eprint={2605.18636},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2605.18636}
+  journal={arXiv preprint arXiv:2605.18636},
+  year={2026}
 }
 ```
 
